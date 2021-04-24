@@ -1,0 +1,14 @@
+body
+{
+    background-color: burlywood;
+    text-align:center;
+    text-decoration-color: brown;
+    margin:30;
+}
+
+#portfolio
+{
+    border-style: solid;
+    border-width: 10;
+    border-radius: 20%
+}
